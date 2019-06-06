@@ -1,10 +1,10 @@
 {
-  "name": "luweiss/wechat",
+  "name": "qianlizeguo/wechat-sdk",
   "description": "Wechat",
   "license": "MIT",
   "authors": [
     {
-      "name": "luwei"
+      "name": "Black"
     }
   ],
   "require": {
